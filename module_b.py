@@ -5,3 +5,5 @@ class ModuleB:
     
   def hello(self):
     print('hello from B')
+    
+  # an update
